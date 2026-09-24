@@ -1,0 +1,1 @@
+//sample java script file
